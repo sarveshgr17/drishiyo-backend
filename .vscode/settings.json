@@ -1,7 +1,18 @@
 {
     "cSpell.words": [
+        "dotenv",
         "Drishio",
+        "eslintcache",
+        "jscoverage",
+        "jspm",
+        "Nuxt",
+        "pids",
         "Rangnath",
-        "Sarvesh"
+        "Sarvesh",
+        "vuepress",
+        "wscript"
+    ],
+    "cSpell.ignorePaths": [
+        "**/.gitignore"
     ]
 }
